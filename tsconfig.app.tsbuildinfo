@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/index.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/libs/appschema.ts","./src/libs/powersync.ts","./src/libs/supabaseconnector.ts","./src/libs/vite.env.d.ts"],"version":"5.6.3"}
