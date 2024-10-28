@@ -20,6 +20,7 @@ function App() {
       }
 
       init();
+      console.log("");
   }, [])
 
   return (
